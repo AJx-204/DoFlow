@@ -40,12 +40,6 @@ Welcome to the **Organization Management App**! This monorepo contains both the 
 - **📝 Activity Logs**
     - Track changes and actions across all resources
 
-- **🔎 Search & Filtering**
-    - Powerful search and filter for organizations, teams, projects, and tasks
-
-- **📚 API Documentation**
-    - Comprehensive docs for every endpoint
-
 ---
 
 ## 🛠️ Tech Stack
