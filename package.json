@@ -1,0 +1,14 @@
+{
+  "name": "doflow.app",
+  "version": "1.0.0",
+  "main": "index.js",
+ "scripts": {
+  "start": "concurrently \"npm run dev --prefix Backend\" \"npm run dev --prefix Frontend\""
+},
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
