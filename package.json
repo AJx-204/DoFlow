@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
  "scripts": {
-  "start": "concurrently \"npm run dev --prefix Backend\" \"npm run dev --prefix Frontend\""
+  "start": "concurrently \"npm run dev --prefix Backend\" \"npm run dev --prefix Client\""
 },
   "author": "",
   "license": "ISC",
