@@ -91,6 +91,10 @@ npm run dev:backend
 
 # 5. Start the frontend client
 npm run dev:frontend
+
+# 6. run full app 
+npm run start
+
 ```
 
 ---
