@@ -143,7 +143,7 @@ In the root `package.json`:
 ## 🌐 API Endpoints
 
 - All backend endpoints are prefixed with: `/api/v1/`
-- See [`backend/src/router/`](backend/src/router/) for detailed route definitions.
+- See [`Backend/src/router/`](backend/src/router/) for detailed route definitions.
 - Full API documentation available in the repository.
 
 ---
