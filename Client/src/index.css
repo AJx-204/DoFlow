@@ -1,0 +1,32 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+
+*{
+  font-family: "Inter", sans-serif;
+  transition: all 0.3s ease;
+}
+
+.no-transition {
+  transition: none !important;
+}
+
+.scrollbar-hidden::-webkit-scrollbar{
+  display: none;
+}
+.scrollbar-hidden {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+@media(max-width:800px){
+   .sideBar{
+    position: fixed;
+  }
+  .membersPage{
+    padding: 12px;
+  }
+  .memebersGrid{
+    gap: 12px;
+  }
+}
