@@ -1,4 +1,4 @@
-# 🚀 Organization Management App Monorepo
+# 🚀 Organization Management App 
 
 Welcome to the **Organization Management App**! This monorepo contains both the backend API and the frontend client for seamless management of organizations, teams, projects, and tasks—all secured with advanced role-based access control.
 
